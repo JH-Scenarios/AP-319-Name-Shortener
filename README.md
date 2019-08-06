@@ -1,5 +1,5 @@
-# AP-319-Name-Shortener
-Shortens the names of the preloads in the Class 319 Electric Multiple Unit Pack Vol. 1 to a more readbale format.
+# AP 319 Name Shortener
+Shortens the names of the preloads in the Class 319 Electric Multiple Unit Pack Vol. 1 to a more readable format.
 
 ## Installation
 You can download this repository as is and run the files from the extracted folder.
